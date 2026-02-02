@@ -1,55 +1,57 @@
-## Hi there 👋
+## Hi, I'm Soniya Surampudi 👋
 
+I’m a Master’s student in Computer Science at **Lawrence Technological University**, specializing in **Data Analytics, Machine Learning, and Applied AI systems**.
 
-Hi, I'm Soniya Surampudi 👋
+I have hands-on experience across the full data lifecycle — from **data collection and preprocessing** to **model development, analytics, visualization, and insight delivery**. My work focuses on building practical, well-documented systems that support **data-driven decision-making**.
 
- I am a Master’s student in Computer Science (Lawrence Technological University) focused on **Machine Learning, Data,
-Data Mining, experienced in data analytics, machine learning, and applied AI systems with experience in 
-data analysis, SQL querying, dashboard development, and insight generation. Hands-on experience 
-working with structured datasets, building visual reports, and supporting data-driven decision-making.. 
-Strong hands-on background in building end-to-end data pipelines, LLM-based applications, and 
-analytical dashboards. Proven ability to work across the full data lifecycle, from raw data preprocessing to 
-model development and insight delivery. Seeking full-time roles in Data Analytics, AI/ML Engineering, 
-Data Scientist.   
+---
 
-**Tech Stack**
-**Programming & Querying:** — Python,MY SQL,Oracle SQL,Core Java,
+### 🔍 Core Focus
+- Data analytics and SQL-driven insights
+- Applied Machine Learning and NLP systems
+- End-to-end data pipelines and dashboards
+- Explainable, real-world AI applications
 
-**Scripting Languages(Web technologies foundational)** — HTML , CSS, JS
+---
 
-**Tools/Frameworks:** — Pandas, NumPy, Scikit-learn, Power BI, Tableau, Streamlit, Jupyter, GitHub,
-Firebase
+### 🧰 Tech Stack
 
+**Programming & Querying**  
+Python · MySQL · Oracle SQL · Core Java  
 
-**Data & Analytics Concepts:** — Data Analysis, Exploratory Data Analysis (EDA), Data Cleaning, Data
-Preprocessing, Data Visualization, Data Mining, Database Management System
+**Data & ML Tools**  
+Pandas · NumPy · Scikit-learn · Jupyter · Streamlit · Power BI · Tableau  
 
+**Web & Platforms**  
+HTML · CSS · JavaScript · Git/GitHub · Firebase  
 
-**Machine Learning & AI:** — Supervised & Unsupervised Learning, Natural Language Processing (NLP),
-Large Language Models (LLMs), Chatbot Development ,Feature engineering,applied AI
+**Concepts**  
+EDA · Data Cleaning · Data Preprocessing · Data Visualization · Data Mining · Feature Engineering · Database Management Systems  
 
+**Machine Learning & NLP**  
+Supervised & Unsupervised Learning · NLP · LLM-based applications · Sentiment Analysis · BERT · Topic Modeling · Hybrid AI Systems  
 
-**NLP(ML) :**— preprocessing data, Sentiment analysis,BERT, Hybrid engine ,Topic modelling
+---
 
+### ⭐ Featured Projects
 
-**Featured Projects**
-- 🩺 **Smart Healthcare Chatbot** — Hybrid AI system for symptom-based guidance (ML + rules + explainability)
-- 📄 **SmartSpec** — AI-assisted SRS/product discovery tool (requirements + structure + automation)
-- 📊 **ML Assignments** — Logistic Regression, KNN, K-Means, Polynomial Regression (clean notebooks + reports)
+- 🩺 **Smart Healthcare Chatbot**  
+  Hybrid AI system for symptom-based guidance using machine learning, rule-based logic, and explainable decision flows.
 
-### 🎯 Current Focus 
-Seeking **Data / ML / Software Engineering** roles - full-time  
-I value clarity, documentation, and building systems that actually work.
-( Currently residing - Southfield, Michigan (**Open to relocate**
+- 📄 **SmartSpec**  
+  AI-assisted system for software requirement analysis and structured product specification generation.
 
-**Contact information**: You can contact me on 
+- 📊 **Machine Learning Assignments**  
+  Implementations of Logistic Regression, KNN, K-Means, and Polynomial Regression with clean notebooks and reports.
 
+---
 
- LinkedIn:https://www.linkedin.com/in/soniya-surampudi-9a90533a3
+### 🎯 Current Focus: 
+Actively seeking **full-time roles** in **Data Analytics, Data Science, or AI/ML Engineering**.  
+Currently based in **Southfield, Michigan** (open to relocation).
 
- 
- Emailid : surampudisoniya@gmail.com.
+---
 
- 
-
-
+### 📫 Contact
+- **LinkedIn:** https://www.linkedin.com/in/soniya-surampudi-9a90533a3  
+- **Email:** surampudisoniya@gmail.com

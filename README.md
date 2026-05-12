@@ -4,6 +4,7 @@ I’m a Master’s student in Computer Science at **Lawrence Technological Unive
 
 I have hands-on experience across the full data lifecycle — from **data collection and preprocessing** to **model development, analytics, visualization, and insight delivery**. My work focuses on building practical, well-documented systems that support **data-driven decision-making**.
 
+** Volunteer Data Engineering & Analytics Contributor at Saayam For All
 ---
 
 ### 🔍 Core Focus

@@ -3,9 +3,6 @@
 <!-- Animated Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,30&height=200&section=header&text=Soniya%20Surampudi&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Analytics%20%7C%20ML%20%7C%20Applied%20AI&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<!-- Visitor Badge -->
-![Visitor Count](https://komarev.com/ghpvc/?username=soniya487&color=blueviolet&style=for-the-badge&label=Profile+Views)
-
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Soniya+Surampudi!;MS+Computer+Science+%40+Lawrence+Tech+🎓;Data+Analytics+%7C+ML+%7C+Applied+AI+🤖;Building+practical%2C+data-driven+systems+📊;Open+to+full-time+opportunities+🚀)](https://git.io/typing-svg)
 
@@ -141,8 +138,8 @@ My work focuses on building practical, well-documented systems that support **da
 ```
 Actively seeking full-time roles in:
 ┌─────────────────────────────────────────────┐
-│   Data Analytics    Data Science         │
-│   AI/ML Engineering                        │
+│  📊 Data Analytics   🤖 Data Science         │
+│  🧠 AI/ML Engineering                        │
 │  📍 Southfield, Michigan — Open to Relocation│
 └─────────────────────────────────────────────┘
 ```

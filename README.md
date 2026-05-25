@@ -115,7 +115,7 @@ My work focuses on building practical, well-documented systems that support **da
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=soniya487&theme=onedark&no-frame=true&margin-w=10&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/soniya487"><img src="https://github-profile-trophy.vercel.app/?username=soniya487&theme=onedark&no-frame=true&margin-w=10&column=5&rank=B,C,S,SS,SSS,A,AA,AAA&no_bg=true" alt="GitHub Trophies"/></a>
 
 </div>
 

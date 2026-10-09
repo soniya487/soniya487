@@ -30,7 +30,7 @@ My work focuses on building practical, well-documented systems that support **da
 
 ---
 
-## 🤝 Volunteer — Data Engineering & Analytics @ Saayam For All
+## 🤝 Data Engineering & Analytics @ Saayam For All
 
 <table>
 <tr>
